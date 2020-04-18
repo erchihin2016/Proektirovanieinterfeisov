@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proektirovanieinterfeisov</string>
+    <string name="up">верхнее давление</string>
+    <string name="low">нижнее давление</string>
+    <string name="pulse">пульс</string>
+    <string name="tacho">тахикардия</string>
+    <string name="save">сохранить</string>
+    <string name="incorrectvalue">Введены неверные данные</string>
+</resources>
